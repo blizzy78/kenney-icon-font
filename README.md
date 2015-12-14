@@ -25,7 +25,7 @@ find also the Adobe Illustrator (.ai) and the icomoon JSON files!
 
 #### Brand Usage Policy
 This icon font contains some brand icons, where the usage have been specifically regulated! All brand 
-icons are trademarks of their respective owners, so please use this icons ONLY to represent the 
+icons are trademarks of their respective owners, so please use these icons ONLY to represent the 
 company or the product! **Please read** the respective "Usage Policy" for more informations BEFORE 
 you use the respective icon. Thank you!
 
